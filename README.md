@@ -1,17 +1,16 @@
-# Natrium - Fast, Robust & Secure NANO Wallet
+# Scriv Mobile Wallet - Fast, Robust & Secure Scriv Wallet
 
-## What is Natrium?
+## What is it?
 
-Natrium is a cross-platform mobile wallet for the NANO cryptocurrency. It is written in Dart using [Flutter](https://flutter.io).
+ Scriv Mobile Wallet is a cross-platform mobile wallet for the SCRIV cryptocurrency. It is written in Dart using [Flutter](https://flutter.io).
 
 | Link | Description |
 | :----- | :------ |
-[natrium.io](https://natrium.io) | Natrium Homepage
-[nano.org](https://nano.org) | NANO Cryptocurrency Homepage
+[scriv.network](https://scriv.network) | Scriv Homepage
 
 ## Server
 
-Natrium's backend server can be found [here](https://github.com/appditto/natrium-wallet-server)
+Backend server can be found [here](https://github.com/appditto/natrium-wallet-server)
 
 ## Contributing
 
@@ -33,7 +32,7 @@ If you need any help, feel free to file an issue if you do not manage to find a 
 
 ## License
 
-Natrium is released under the BSD-2 License
+Scriv Mobile Wallet is released under the BSD-2 License
 
 ### Update translations:
 
